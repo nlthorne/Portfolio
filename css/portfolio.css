@@ -121,6 +121,7 @@ ul.social-buttons li a:hover,ul.social-buttons li a:focus,ul.social-buttons li a
 .portfolio-modal .modal-content p{margin-bottom:30px}
 .portfolio-modal .modal-content p.item-intro{margin:20px 0 30px;font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;font-style:italic;font-size:16px}
 .portfolio-modal .modal-content ul.list-inline{margin-bottom:30px;margin-top:0}
+.portfolio-modal .modal-content ul.link-list{list-style-type: none}
 .portfolio-modal .modal-content img{margin-bottom:30px}
 .portfolio-modal .close-modal{position:absolute;width:75px;height:75px;background-color:transparent;top:25px;right:25px;cursor:pointer}
 .portfolio-modal .close-modal:hover{opacity:.3}
